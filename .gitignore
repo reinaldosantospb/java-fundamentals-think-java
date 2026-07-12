@@ -1,0 +1,14 @@
+# Java
+*.class
+bin/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# Sistema Operacional
+.DS_Store
+Thumbs.db
