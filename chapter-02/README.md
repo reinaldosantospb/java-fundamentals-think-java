@@ -32,7 +32,7 @@ concepts required to write simple, readable, and efficient Java programs.
 
   <tr>
     <td>Exercise 01</td>
-    <td>Declare variables and display their values.</td>
+    <td>Stump the Chump.</td>
     <td>✅ Completed</td>
   </tr>
 
