@@ -44,26 +44,37 @@ The main goal is to complete every chapter and exercise while building a solid p
 
 ---
 
+# 📊 Repository Stats
+
+- 📖 **Book:** Think Java (2nd Edition)
+- ☕ **Language:** Java
+- ✅ **Chapters Completed:** 2 / 16
+- 📝 **Exercises Completed:** 25
+- 🚀 **Current Chapter:** Chapter 3 - Input and Output
+
+---
+
 # 📚 Study Progress
 
 | Chapter | Exercises | Status |
 |---------|----------:|--------|
-| Chapter 1 - Computer Programming| **10 / 10** | ![Completed](https://img.shields.io/badge/Completed-success?style=for-the-badge&logo=checkmarx) |
-| Chapter 2 - Variables and Operators| **15 / 15** | ![Completed](https://img.shields.io/badge/Completed-success?style=for-the-badge&logo=checkmarx) |
-| Chapter 3 - Input and Output| **0 / 0** |  ![In Progress](https://img.shields.io/badge/In%20Progress-yellow?style=for-the-badge) |
-| Chapter 4 - Methods| **0 / 0** | ![Not Started](https://img.shields.io/badge/Not%20Started-lightgrey?style=for-the-badge) |
-| Chapter 5 - Conditionals and Logic| **0 / 0** | ![Not Started](https://img.shields.io/badge/Not%20Started-lightgrey?style=for-the-badge) |
-| Chapter 6 - Fruitful Methods| **0 / 0** | ![Not Started](https://img.shields.io/badge/Not%20Started-lightgrey?style=for-the-badge) |
-| Chapter 7 - Iteration| **0 / 0** | ![Not Started](https://img.shields.io/badge/Not%20Started-lightgrey?style=for-the-badge) |
-| Chapter 8 - Recursion| **0 / 0** | ![Not Started](https://img.shields.io/badge/Not%20Started-lightgrey?style=for-the-badge) |
-| Chapter 9 - Objects and Classes| **0 / 0** | ![Not Started](https://img.shields.io/badge/Not%20Started-lightgrey?style=for-the-badge) |
-| Chapter 10 - Arrays| **0 / 0** | ![Not Started](https://img.shields.io/badge/Not%20Started-lightgrey?style=for-the-badge) |
-| Chapter 11 - InpObjects II| **0 / 0** | ![Not Started](https://img.shields.io/badge/Not%20Started-lightgrey?style=for-the-badge) |
-| Chapter 12 - InArrayList| **0 / 0** | ![Not Started](https://img.shields.io/badge/Not%20Started-lightgrey?style=for-the-badge) |
-| Chapter 13 - InpInheritance| **0 / 0** | ![Not Started](https://img.shields.io/badge/Not%20Started-lightgrey?style=for-the-badge) |
-| Chapter 14 - Arrays of Objects| **0 / 0** | ![Not Started](https://img.shields.io/badge/Not%20Started-lightgrey?style=for-the-badge) |
-| Chapter 15 - Interfaces and Polymorphism| **0 / 0** | ![Not Started](https://img.shields.io/badge/Not%20Started-lightgrey?style=for-the-badge) |
-| Chapter 16 - Inp2D Arrays and Other Topics| **0 / 0** | ![Not Started](https://img.shields.io/badge/Not%20Started-lightgrey?style=for-the-badge) |
+| Chapter 1 - Computer Programming | **10 / 10** | ![Completed](https://img.shields.io/badge/Completed-success?style=for-the-badge&logo=checkmarx) |
+| Chapter 2 - Variables and Operators | **15 / 15** | ![Completed](https://img.shields.io/badge/Completed-success?style=for-the-badge&logo=checkmarx) |
+| Chapter 3 - Input and Output | **1 / ?** | ![In Progress](https://img.shields.io/badge/In%20Progress-yellow?style=for-the-badge) |
+| Chapter 4 - Methods | **0 / 0** | ![Not Started](https://img.shields.io/badge/Not%20Started-lightgrey?style=for-the-badge) |
+| Chapter 5 - Conditionals and Logic | **0 / 0** | ![Not Started](https://img.shields.io/badge/Not%20Started-lightgrey?style=for-the-badge) |
+| Chapter 6 - Fruitful Methods | **0 / 0** | ![Not Started](https://img.shields.io/badge/Not%20Started-lightgrey?style=for-the-badge) |
+| Chapter 7 - Iteration | **0 / 0** | ![Not Started](https://img.shields.io/badge/Not%20Started-lightgrey?style=for-the-badge) |
+| Chapter 8 - Recursion | **0 / 0** | ![Not Started](https://img.shields.io/badge/Not%20Started-lightgrey?style=for-the-badge) |
+| Chapter 9 - Objects and Classes | **0 / 0** | ![Not Started](https://img.shields.io/badge/Not%20Started-lightgrey?style=for-the-badge) |
+| Chapter 10 - Arrays | **0 / 0** | ![Not Started](https://img.shields.io/badge/Not%20Started-lightgrey?style=for-the-badge) |
+| Chapter 11 - Objects II | **0 / 0** | ![Not Started](https://img.shields.io/badge/Not%20Started-lightgrey?style=for-the-badge) |
+| Chapter 12 - ArrayList | **0 / 0** | ![Not Started](https://img.shields.io/badge/Not%20Started-lightgrey?style=for-the-badge) |
+| Chapter 13 - Inheritance | **0 / 0** | ![Not Started](https://img.shields.io/badge/Not%20Started-lightgrey?style=for-the-badge) |
+| Chapter 14 - Arrays of Objects | **0 / 0** | ![Not Started](https://img.shields.io/badge/Not%20Started-lightgrey?style=for-the-badge) |
+| Chapter 15 - Interfaces and Polymorphism | **0 / 0** | ![Not Started](https://img.shields.io/badge/Not%20Started-lightgrey?style=for-the-badge) |
+| Chapter 16 - 2D Arrays and Other Topics | **0 / 0** | ![Not Started](https://img.shields.io/badge/Not%20Started-lightgrey?style=for-the-badge) |
+
 ---
 
 # 📂 Repository Structure
@@ -95,6 +106,18 @@ java-fundamentals-think-java
 │       ├── Chap02Exercise01.java
 │       ├── Chap02Exercise02.java
 │       ├── Chap02Exercise03.java
+│       ├── Chap02Exercise04.java
+│       ├── Chap02Exercise05.java
+│       ├── Chap02Exercise06.java
+│       ├── Chap02Exercise07.java
+│       ├── Chap02Exercise08.java
+│       ├── Chap02Exercise09.java
+│       ├── Chap02Exercise10.java
+│       ├── Chap02Exercise11.java
+│       ├── Chap02Exercise12.java
+│       ├── Chap02Exercise13.java
+│       ├── Chap02Exercise14.java
+│       └── Chap02Exercise15.java
 │
 ├── chapter-03
 │   ├── README.md
@@ -109,6 +132,18 @@ Each chapter contains:
 - A dedicated `README.md` summarizing the topics studied.
 - A `src` directory containing all Java exercises.
 - Individual Git commits for every completed exercise.
+
+---
+
+# ▶️ How to Run
+
+Clone the repository:
+
+```bash
+git clone https://github.com/reinaldosantospb/java-fundamentals-think-java.git
+```
+
+Open the project in **Visual Studio Code**, **IntelliJ IDEA**, or any Java IDE, then run any Java file located inside the `src` directory.
 
 ---
 
@@ -148,9 +183,17 @@ This repository serves as:
 
 # 📚 Reference
 
-Downey, Allen B. & Mayfield, Chris.
+Allen B. Downey & Chris Mayfield.
 
 **Think Java: How to Think Like a Computer Scientist (2nd Edition)**
+
+Green Tea Press.
+
+---
+
+# 📄 License
+
+This project is intended for educational purposes.
 
 ---
 
