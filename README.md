@@ -48,9 +48,9 @@ The main goal is to complete every chapter and exercise while building a solid p
 
 - 📖 **Book:** Think Java (2nd Edition)
 - ☕ **Language:** Java
-- ✅ **Chapters Completed:** 2 / 16
-- 📝 **Exercises Completed:** 25
-- 🚀 **Current Chapter:** Chapter 3 - Input and Output
+- ✅ **Chapters Completed:** 3 / 16
+- 📝 **Exercises Completed:** 33
+- 🚀 **Current Chapter:** Chapter 4 - Methods
 
 ---
 
@@ -122,7 +122,19 @@ java-fundamentals-think-java
 ├── chapter-03
 │   ├── README.md
 │   └── src
-│       └── Chap03Exercise01.java
+│       ├── Chap02Exercise01.java
+│       ├── Chap02Exercise02.java
+│       ├── Chap02Exercise03.java
+│       ├── Chap02Exercise04.java
+│       ├── Chap02Exercise05.java
+│       ├── Chap02Exercise06.java
+│       ├── Chap02Exercise07.java
+│       └── Chap03Exercise08.java
+│
+├── chapter-04
+│   ├── README.md
+│   └── src
+│       └── Chap04Exercise01.java
 │
 └── ...
 ```
@@ -153,6 +165,7 @@ Open the project in **Visual Studio Code**, **IntelliJ IDEA**, or any Java IDE, 
 - 💻 Visual Studio Code
 - 🌿 Git
 - 🐙 GitHub
+- 📝 Markdown / HTML Documentation
 
 ---
 
