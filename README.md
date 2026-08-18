@@ -60,8 +60,8 @@ The main goal is to complete every chapter and exercise while building a solid p
 |---------|----------:|--------|
 | Chapter 1 - Computer Programming | **10 / 10** | ![Completed](https://img.shields.io/badge/Completed-success?style=for-the-badge&logo=checkmarx) |
 | Chapter 2 - Variables and Operators | **15 / 15** | ![Completed](https://img.shields.io/badge/Completed-success?style=for-the-badge&logo=checkmarx) |
-| Chapter 3 - Input and Output | **8 / 8** | ![In Progress](https://img.shields.io/badge/In%20Progress-yellow?style=for-the-badge) |
-| Chapter 4 - Methods | **0 / 0** | ![Not Started](https://img.shields.io/badge/Not%20Started-lightgrey?style=for-the-badge) |
+| Chapter 3 - Input and Output | **8 / 8** | ![Completed](https://img.shields.io/badge/Completed-success?style=for-the-badge&logo=checkmarx)  |
+| Chapter 4 - Methods | **1 / 0** | ![In Progress](https://img.shields.io/badge/In%20Progress-yellow?style=for-the-badge) |
 | Chapter 5 - Conditionals and Logic | **0 / 0** | ![Not Started](https://img.shields.io/badge/Not%20Started-lightgrey?style=for-the-badge) |
 | Chapter 6 - Fruitful Methods | **0 / 0** | ![Not Started](https://img.shields.io/badge/Not%20Started-lightgrey?style=for-the-badge) |
 | Chapter 7 - Iteration | **0 / 0** | ![Not Started](https://img.shields.io/badge/Not%20Started-lightgrey?style=for-the-badge) |
